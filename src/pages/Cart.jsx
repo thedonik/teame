@@ -1,9 +1,8 @@
-import React from 'react';
 
 const Cart = () => {
     return (
         <div>
-            
+            <h2>ACart</h2>
         </div>
     );
 }
